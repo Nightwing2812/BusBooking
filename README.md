@@ -1,2 +1,0 @@
-# BusBooking
-training project
